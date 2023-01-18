@@ -102,9 +102,7 @@
                                  <a onclick="return giohang(579);" class="view_duan">
                                  <i class="fa fa-shopping-cart" aria-hidden="true"></i> <span class="text-mobile-buy">Mua hàng</span>
                                  </a>
-                                 <a href="tel:090 66 99 038" class="view_duan">
-                                 <i class="fa fa-phone" aria-hidden="true"></i> <span class="text-mobile-buy">Gọi ngay</span>
-                                 </a>
+                                 
                                  <div class="clear"></div>
                               </div>
                               <div class="clear"></div>
@@ -128,7 +126,7 @@
                               <div class="info-setup">
                                  <div class="row-setup">
                                     <p style="text-align:justify">Quý khách vui lòng liên hệ với nhân viên bán hàng theo số điện thoại Hotline sau :</p>
-                                    <p><span style="color:#d50100">09</span>&nbsp;để biết thêm chi tiết về Phụ kiện sản phẩm.</p>
+                                    <p><span style="color:#d50100"></span>&nbsp;để biết thêm chi tiết về Phụ kiện sản phẩm.</p>
                                  </div>
                               </div>
                            </div>
@@ -178,71 +176,14 @@
                   </div>
                </div>
                <div class="wrapper_all_main_right">
-                  <!-- <div class="tabs-animation">
-                     <div class="bg_in">
-                        <div id="nav-anchor"></div>
-                        <nav class="nav-tabs">
-                           <ul>
-                              <li><a href="#productDetail"><i class="fa fa-info-circle" aria-hidden="true"></i> <span class="text-mobile">Chi tiết sản phẩm</span></a></li>
-                              <li><a href="#inforProduct"><i class="fa fa-file-text-o" aria-hidden="true"></i><span class="text-mobile"> Thông số kỹ thuật</span></a></li>
-                              <li><a href="#Comment"><i class="fa fa-comment-o" aria-hidden="true"></i><span class="text-mobile"> Bình luận</span></a></li>
-                           </ul>
-                           <div class="name-product">
-                              Iphone X
-                              <span class="" style="font-size:16px; color:red; padding-left:5px;">1,960,000 VNĐ</span>
-                           </div>
-                           <div class="ct btn-wp">
-                              <div class="wp_a">
-                                 <a onclick="return giohang(371);" class="view_duan">
-                                 <i class="fa fa-shopping-cart" aria-hidden="true"></i> <span class="text-mobile-buy">Mua hàng</span>
-                                 </a>
-                                 <a href="tel:090 66 99 038" class="view_duan">
-                                 <i class="fa fa-phone" aria-hidden="true"></i> <span class="text-mobile-buy">Gọi ngay</span>
-                                 </a>
-                                 <div class="clear"></div>
-                              </div>
-                           </div>
-                        </nav>
-                     </div>
-                  </div>
-                  <div class="product_detail_info">
-                     <div class="module_pro_all" id="productDetail">
-                        <div class="box-title">
-                           <div class="title-bar">
-                              <h3>Chi tiết sản phẩm</h3>
-                           </div>
-                        </div>
-                        <div class="tab_content content_text_product content-module">
-                          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
-                           <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
-                        </div>
-                     </div>
-                     <div class="module_pro_all" id="inforProduct">
-                        <div class="box-title">
-                           <div class="title-bar">
-                              <h3>Thông số kỹ thuật</h3>
-                           </div>
-                        </div>
-                        <div class="tab_content content_text_product content-module">
-                           <p>CRW - Wallmount:<br />
-                              - Cửa: 1 cánh trước Mica<br />
-                              - Tủ treo tường (Wall mount)<br />
-                              - -Màu sơn tĩnh&nbsp;<br />
-                              - Tủ có đánh dấu số U trên thanh tiêu chuẩn&nbsp;<br />
-                              - Logo COMRACK được dập nổi trên cánh trước của tủ<br />
-                              - Đáy và nóc có đột lỗ chờ đi dây<br />
-                              - Bảo hành 3 năm với tủ , 1 năm với phụ kiện&nbsp;
-                           </p>
-                        </div>
-                     </div>
-                  </div> -->
+                  
                   <div class="clear"></div>
                   
                   
                   <div class="clear"></div>
                   <div class="dmsub">
                      <div class="tags_products desktop">
-                        <div class="tab_link">
+                        <!--<div class="tab_link">
                            <h3 class="title_tab_link">TAGS: </h3>
                            <div class="content_tab_link"> 
                             <a href="tag/">Iphone x</a>
@@ -250,7 +191,7 @@
                              <a href="tag/">Iphone 11</a>
                               <a href="tag/">Iphone Like New</a>
   
-                            </div>
+                            </div>-->
                         </div>
                      </div>
                   </div>
